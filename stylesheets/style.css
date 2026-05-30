@@ -179,8 +179,8 @@ body {
 }
 
 #banner {
-    width: 70%;
-    height: 100%;
+    width: 60%;
+    height: 50%;
     object-fit: cover;
     transition: opacity 0.5s ease-in-out;
 }
