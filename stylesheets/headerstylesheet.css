@@ -1,0 +1,22 @@
+@charset "utf-8";
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+ .link
+    {
+         text-decoration:none;
+         background:bisque;
+         border:black;
+         border-style:solid;
+         border-width:thin;
+         border-radius:3px;
+         padding:1px;
+        
+    }
+    a:hover
+    {
+       font-weight:bold;
+       
+    }
